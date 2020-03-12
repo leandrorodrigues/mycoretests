@@ -1,0 +1,13 @@
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/mq
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/mq.deps.json
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/mq.runtimeconfig.json
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/mq.runtimeconfig.dev.json
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/mq.dll
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/mq.pdb
+/home/leandrodc/Projetos/mycoretests/mq/bin/Debug/netcoreapp3.1/amqmdnetstd.dll
+/home/leandrodc/Projetos/mycoretests/mq/obj/Debug/netcoreapp3.1/mq.csprojAssemblyReference.cache
+/home/leandrodc/Projetos/mycoretests/mq/obj/Debug/netcoreapp3.1/mq.AssemblyInfoInputs.cache
+/home/leandrodc/Projetos/mycoretests/mq/obj/Debug/netcoreapp3.1/mq.AssemblyInfo.cs
+/home/leandrodc/Projetos/mycoretests/mq/obj/Debug/netcoreapp3.1/mq.csproj.CopyComplete
+/home/leandrodc/Projetos/mycoretests/mq/obj/Debug/netcoreapp3.1/mq.dll
+/home/leandrodc/Projetos/mycoretests/mq/obj/Debug/netcoreapp3.1/mq.pdb

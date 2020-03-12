@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ibm-mq-client/9.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/amqmdnetstd.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/amqmdnetstd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ibm-mq-client/9.1.2": {
+      "sha512": "cbLKDJbpk1FcVKhLWmWqPEa6CqxqBJlgafKdENk9E0kSaX1FnibeKXmPeKEMUIUWIzQ1AHkVpgKv3c52kjN53g==",
+      "type": "package",
+      "path": "ibm-mq-client/9.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ibm-mq-client.9.1.2.nupkg.sha512",
+        "ibm-mq-client.nuspec",
+        "lib/netcoreapp2.2/amqmdnetstd.dll",
+        "lib/netcoreapp3.0/amqmdnetstd.dll",
+        "lib/netstandard2.0/amqmdnetstd.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ibm-mq-client >= 9.1.2"
+    ]
+  },
+  "packageFolders": {
+    "/home/leandrodc/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/leandrodc/Projetos/mycoretests/mq/mq.csproj",
+      "projectName": "mq",
+      "projectPath": "/home/leandrodc/Projetos/mycoretests/mq/mq.csproj",
+      "packagesPath": "/home/leandrodc/.nuget/packages/",
+      "outputPath": "/home/leandrodc/Projetos/mycoretests/mq/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/leandrodc/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "ibm-mq-client": {
+            "target": "Package",
+            "version": "[9.1.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

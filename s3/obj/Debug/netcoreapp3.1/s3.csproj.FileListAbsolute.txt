@@ -1,0 +1,14 @@
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/s3
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/s3.deps.json
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/s3.runtimeconfig.json
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/s3.runtimeconfig.dev.json
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/s3.dll
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/s3.pdb
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/AWSSDK.Core.dll
+/home/leandrodc/Projetos/mycoretests/s3/bin/Debug/netcoreapp3.1/AWSSDK.S3.dll
+/home/leandrodc/Projetos/mycoretests/s3/obj/Debug/netcoreapp3.1/s3.csprojAssemblyReference.cache
+/home/leandrodc/Projetos/mycoretests/s3/obj/Debug/netcoreapp3.1/s3.AssemblyInfoInputs.cache
+/home/leandrodc/Projetos/mycoretests/s3/obj/Debug/netcoreapp3.1/s3.AssemblyInfo.cs
+/home/leandrodc/Projetos/mycoretests/s3/obj/Debug/netcoreapp3.1/s3.csproj.CopyComplete
+/home/leandrodc/Projetos/mycoretests/s3/obj/Debug/netcoreapp3.1/s3.dll
+/home/leandrodc/Projetos/mycoretests/s3/obj/Debug/netcoreapp3.1/s3.pdb
